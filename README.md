@@ -2,7 +2,7 @@
 👋 Olá! Sou [Vinícius Saraiva](https://github.com/vns140), apaixonado por tecnologia, código e inovação. Aqui você encontrará projetos incríveis que refletem minha experiência e interesses. 🚀  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vns140&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vns140&theme=neon&show_icons=true)
 ---
 
 ## 📊 **Minhas Estatísticas no GitHub**  
