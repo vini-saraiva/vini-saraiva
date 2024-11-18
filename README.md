@@ -1,5 +1,5 @@
 # 🦇 **Bem-vindo ao meu GitHub!** 🦇
-👋 Olá! Sou [Vinícius Saraiva](https://github.com/vns140), apaixonado por tecnologia, código e inovação. Aqui você encontrará projetos incríveis que refletem minha experiência e interesses. 🚀  
+Olá! Sou [Vinícius Saraiva](https://github.com/vns140), apaixonado por tecnologia, código e inovação. Aqui você encontrará projetos incríveis que refletem minha experiência e interesses. 🚀  
 
 
 ## 📊 **Minhas Estatísticas no GitHub**  
