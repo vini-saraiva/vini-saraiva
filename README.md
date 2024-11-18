@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://github.com/seu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vns140&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vns140&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
   </a>
 </p>  
 
@@ -30,7 +30,7 @@
 
 ## 🔥 **Conquistas Recentes**  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?vns140&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>  
 
 ---
