@@ -32,27 +32,15 @@
 
 ---
 
-## 💼 **Projetos Recentes**  
-
-### 🔷 [Projeto Incrível](https://github.com/seu-usuario/projeto-incrivel)  
-*Descrição breve do projeto e suas funcionalidades principais.*  
-
-### 🔶 [Outro Projeto Legal](https://github.com/seu-usuario/outro-projeto)  
-*Descrição breve do projeto e suas funcionalidades principais.*  
-
----
 
 ## ✨ **Conecte-se Comigo**  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
+  <a href="[https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/vin%C3%ADcius-saraiva-58207821/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:vns140@hotmai.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>  
 
@@ -60,13 +48,3 @@
 
 ## 🌟 **Meu Objetivo no GitHub**  
 "Compartilhar conhecimento, colaborar com a comunidade e criar soluções impactantes."  
-
----
-
-### 🛠️ **Como Usar o GitHub Readme Stats**  
-- Clone o repositório oficial: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).  
-- Personalize os parâmetros na URL para o seu usuário.  
-
----
-
-> 🔗 *Dica: Use este template e adapte-o para refletir sua identidade e seus interesses!*  
