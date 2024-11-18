@@ -2,14 +2,11 @@
 👋 Olá! Sou [Vinícius Saraiva](https://github.com/vns140), apaixonado por tecnologia, código e inovação. Aqui você encontrará projetos incríveis que refletem minha experiência e interesses. 🚀  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vns140&theme=neon&show_icons=true)
----
-
 ## 📊 **Minhas Estatísticas no GitHub**  
 
 <p align="center">
   <a href="https://github.com/seu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vns140&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="180em" weight="100%" src="https://github-readme-stats.vercel.app/api?username=vns140&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vns140&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
   </a>
 </p>  
@@ -18,12 +15,12 @@
 
 ## 🛠️ **Tecnologias e Ferramentas**  
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=FFF&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=FFF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Java-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFF&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=FFF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-GCP-232F3E?logo=amazon-aws&logoColor=FFF&style=for-the-badge" />
 </p>  
 
 ---
