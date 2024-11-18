@@ -55,21 +55,12 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
 
 &nbsp;
 &nbsp;
 
 ---
-
-## 🔥 **Conquistas Recentes**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?vns140&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>  
-
----
-
 
 ## ✨ **Conecte-se Comigo**  
 
