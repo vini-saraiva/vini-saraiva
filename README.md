@@ -16,7 +16,7 @@
 ## 🛠️ **Tecnologias e Ferramentas**  
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-C#-007396?logo=java&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFF&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=FFF&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge" />
