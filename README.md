@@ -6,8 +6,8 @@ Olá! Sou [Vinícius Saraiva](https://github.com/vns140), apaixonado por tecnolo
 
 <p align="center">
   <a href="https://github.com/seu-usuario">
-    <img height="180em" weight="100%" src="https://github-readme-stats.vercel.app/api?username=vns140&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vns140&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
+    <img height="180em" weight="100%" src="https://github-readme-stats.vercel.app/api?username=vini-saraiva&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-saraiva&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
   </a>
 </p>  
 
